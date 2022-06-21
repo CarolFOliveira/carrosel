@@ -1,0 +1,22 @@
+body{
+    background-image: url('bg.gif');
+    background-size: 100%;
+    
+}
+
+
+p{
+    text-align: left;
+    font-size: 35px;
+    color: rgb(165, 250, 6);
+    font-family: fantasy;
+    margin-left: 10px;
+}
+
+#carouselSite img 
+{
+    
+    max-width: 500px;
+    max-height: 500px;
+
+}
