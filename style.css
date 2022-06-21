@@ -1,5 +1,5 @@
 body{
-    background-image: url('bg3.gif');
+    background-image: url('bg.gif');
     background-size:100%;  
 }
 
@@ -8,7 +8,7 @@ body{
 p{
     text-align: left;
     font-size: 35px;
-    color: rgb(250, 6, 189);
+    color: rgb(5, 18, 204);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-left: 10px;
 }
